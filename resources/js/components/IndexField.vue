@@ -2,7 +2,6 @@
     <div v-if="field.inlineIndex" class="relative flex items-stretch">
             <label>
                 <input
-                    :id="field.name"
                     type="text"
                     class="w-full form-control form-input form-input-bordered inline-field p-0 text-center whitespace-no-wrap"
                     :placeholder="field.name"
