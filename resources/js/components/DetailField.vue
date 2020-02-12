@@ -4,7 +4,6 @@
             <p slot="value" class="text-90">
                 <label>
                     <input
-                        :id="field.name"
                         type="text"
                         class="form-input inline-field pl-0 w-full whitespace-no-wrap"
                         :placeholder="field.name"
