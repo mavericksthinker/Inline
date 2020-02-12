@@ -1,2 +1,2 @@
-# Inline
+# Nova Inline
 Nova Inline Field
